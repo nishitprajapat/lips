@@ -43,10 +43,10 @@ body{
 .title{
     color: rgb(33, 33, 54);
     font-weight: bold;
-    /* font-style: italic; */
     font-size: 28px;
+    font-size: 28px;
+    text-align: center;
     padding-top: 17px;
-    padding-left: 33px;
 }
 .menu{
     width: 1200px;
